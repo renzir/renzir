@@ -10,6 +10,8 @@ Aquí están las herramientas con las que estoy construyendo mi ecosistema actua
 ![JavaScript](https://img.shields.io)
 ![MySQL](https://img.shields.io)
 
+
+
 ### 📚 Actualmente aprendiendo / En proceso
 ![TypeScript](https://img.shields.io)
 ![TailwindCSS](https://img.shields.io)
