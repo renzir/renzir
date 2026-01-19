@@ -1,27 +1,22 @@
-Hola, soy Renzi
+### Hola, soy Renzi
 
 Desarrollador enfocado en construir aplicaciones web robustas y escalables. Me apasiona la arquitectura de sistemas y el manejo profesional de datos.
 
-Mi Stack Tecnológico
+### Mi Stack Tecnológico
 Aquí están las herramientas con las que estoy construyendo mi ecosistema actual:
 
 * Backend: Node.js, Express.js, MySQL
 * Frontend: React, JavaScript
 * Herramientas: Git, GitHub
 
-Actualmente aprendiendo / En proceso
+### Actualmente aprendiendo / En proceso
 * TypeScript
 * TailwindCSS
 * PostgreSQL
 
-Conecta conmigo
-*   🌐 **Sitio Web:** [renzi.dev](https://renzi.dev) (Próximamente)
-*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com)
-
-
-### 📫 Conecta conmigo
-*   🌐 **Sitio Web:** [renzi.dev](https://renzi.dev) (Próximamente)
-*   💼 **LinkedIn:** [linkedin.com/in/renzi-dev](https://www.linkedin.com/in/renzi-dev/)
+###  Conecta conmigo
+* Sitio Web: [renzi.dev](https://renzi.dev) (Próximamente)
+* LinkedIn: [linkedin.com/in/renzi-dev](https://www.linkedin.com/in/renzi-dev/)
 
 
 
