@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Renzi 👋
 
-<!--
-**renzir/renzir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en construir aplicaciones web robustas y escalables. Me apasiona la arquitectura de sistemas y el manejo profesional de datos.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Tecnológico
+Aquí están las herramientas con las que estoy construyendo mi ecosistema actual:
+![NodeJS](https://img.shields.io)
+![Express.js](https://img.shields.io)
+![React](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![MySQL](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente aprendiendo / En proceso
+![TypeScript](https://img.shields.io)
+![TailwindCSS](https://img.shields.io)
+
+---
+
+### 📫 Conecta conmigo
+- 🌐 Sitio Web: [renzi.dev](https://renzi.dev) Proximamente
+ 💼 LinkedIn: [linkedin.com/in/renzi-dev](https://www.linkedin.com)
+
+
+
+
