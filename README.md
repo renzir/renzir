@@ -5,22 +5,19 @@ Desarrollador enfocado en construir aplicaciones web robustas y escalables. Me a
 ### 🛠️ Mi Stack Tecnológico
 Aquí están las herramientas con las que estoy construyendo mi ecosistema actual:
 
-![NodeJS](https://img.shields.io)
-![Express.js](https://img.shields.io)
-![React](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![MySQL](https://img.shields.io)
+*   **Backend:** Node.js, Express.js, MySQL
+*   **Frontend:** React, JavaScript
+*   **Herramientas:** Git, GitHub
 
 ### 📚 Actualmente aprendiendo / En proceso
-![TypeScript](https://img.shields.io)
-![TailwindCSS](https://img.shields.io)
+*   TypeScript 📘
+*   TailwindCSS 🎨
 
 ---
 
 ### 📫 Conecta conmigo
-- 🌐 Sitio Web: [renzi.dev (Próximamente)](https://renzi.dev)
-- 💼 LinkedIn: [linkedin.com/in/renzi-dev](https://www.linkedin.com)
-
+*   🌐 **Sitio Web:** [renzi.dev](https://renzi.dev) (Próximamente)
+*   💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 
 
 
