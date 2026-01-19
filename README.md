@@ -17,7 +17,8 @@ Aquí están las herramientas con las que estoy construyendo mi ecosistema actua
 
 ### 📫 Conecta conmigo
 *   🌐 **Sitio Web:** [renzi.dev](https://renzi.dev) (Próximamente)
-*   💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/renzi-dev)
+* 💼 **LinkedIn:** [linkedin.com/in/renzi-dev](https://www.linkedin.com)
+
 
 
 
