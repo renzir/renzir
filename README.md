@@ -1,20 +1,21 @@
 ### Hola, soy Renzi
 
-Desarrollador enfocado en construir aplicaciones web robustas y escalables. Me gusta la arquitectura de sistemas y la integración de APIs.
+Desarrollador enfocado en el stack **React** y **Node.js**. Me dedico a construir aplicaciones web completas, priorizando interfaces rápidas y un código de servidor limpio y eficiente.
 
 ### Mi Stack Tecnológico
-Aquí están las herramientas con las que estoy construyendo mi ecosistema actual:
 
-* Backend: Node.js, Express.js, PostgreSQL
-* Frontend: React, React Native, TypeScript
-* Estilos: Tailwind CSS
-* Herramientas: Git, GitHub
+* **Frontend:** React, Astro, React Native
+* **Backend:** Node.js, Express.js
+* **Base de datos:** SQL puro (MySQL, PostgreSQL)
+* **Estilos:** Tailwind CSS
+* **Seguridad:** JWT, Bcrypt
+* **Herramientas:** Git, GitHub, TypeScript
+
+### Proyectos destacados
+* **Tienda Fullstack:** [Ver Demo](https://tienda.renzi.dev) | [Código backend](https://github.com/renzir/tienda-backend) [Código frontend](https://github.com/renzir/tienda-frontend)
+* **Red Social (MVP):** [Código Backend](https://github.com/renzir/SocialApp-Backend)
 
 ### Conecta conmigo
-* Sitio Web: [renzi.dev](https://renzi.dev) 
-* LinkedIn: [linkedin.com/in/renzi-dev](https://www.linkedin.com/in/renzi-dev/)
-
-
-
-
-
+* **Sitio Web:** [renzi.dev](https://renzi.dev) 
+* **LinkedIn:** [linkedin.com/in/renzi-dev](https://www.linkedin.com/in/renzi-dev/)
+* 
