@@ -12,8 +12,12 @@ Desarrollador enfocado en el stack **React** y **Node.js**. Me dedico a construi
 * **Herramientas:** Git, GitHub, TypeScript
 
 ### Proyectos destacados
-* **Tienda:** [Backend](https://github.com/renzir/tienda-backend) [Frontend](https://github.com/renzir/tienda-frontend)
-* **Red Social (MVP):** [Backend](https://github.com/renzir/SocialApp-Backend)
+* **Tienda:**
+* [Ver demo] (https://tienda.renzi.dev)
+* [Backend](https://github.com/renzir/tienda-backend)
+* [Frontend](https://github.com/renzir/tienda-frontend)
+* **Red Social (MVP):**
+* [Backend](https://github.com/renzir/SocialApp-Backend)
 
 ### Conecta conmigo
 * **Sitio Web:** [renzi.dev](https://renzi.dev) 
