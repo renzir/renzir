@@ -28,7 +28,7 @@ Desarrollador web enfocado en **React, TypeScript y Node.js**, con experiencia c
   * Node.js + Express + GraphQL + MySQL + SQL
   * Aplicación social en desarrollo con autenticación, publicaciones, mensajes y gestión de usuarios.
 
-* **Gema Bridge**
+* ** Bridge AI**
 
   * 🤖 [Código del proyecto](https://github.com/renzir/bridge)
   * Extensión de Visual Studio Code + servidor API local + React
